@@ -6,17 +6,20 @@
 
 **Shopify Developer & Product Manager** specializing in the full cycle of Shopify store development — from creating unique themes to product catalog setup and optimization. Over the past 1.5 years, I've created dozens of e-commerce projects, working with Liquid, JavaScript, and modern web technologies. I also have experience teaching programming. Always results-oriented and focused on creating stores that actually sell.
 
-🔭 **Currently working on:** Full-cycle Shopify store development and e-commerce optimization  
-🌱 **Learning:** Advanced Shopify Plus features, machine learning, and modern software architecture  
-💡 **Specialized in:** Shopify development, e-commerce optimization, programming education  
+🔭 **Currently working on:** Full-cycle Shopify store development, WordPress sites, and e-commerce optimization  
+🌱 **Learning:** Advanced Shopify Plus features, machine learning, Python automation, and modern software architecture  
+💡 **Specialized in:** Shopify development, WordPress development, Python automation, e-commerce optimization, programming education  
 🎓 **Education:** Master's degree in progress at Igor Sikorsky Kyiv Polytechnic Institute  
-📫 **Reach me:** sashatsompel@gmail.com 
+📫 **Reach me:** sashatsompel@gmail.com  
 
 ## 🛠️ Tech Stack
 
-### E-commerce & Shopify
+### E-commerce & CMS
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Liquid](https://img.shields.io/badge/-Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,14 +29,22 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/-IoT-FF6B6B?style=for-the-badge&logo=internet-of-things&logoColor=white)
-
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Database & Backend
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Hardware & IoT
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-FF6B6B?style=for-the-badge&logo=internet-of-things&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -112,6 +123,19 @@ Exhaust systems online store with unique design, integrated payment systems, and
 
 **[🔗 Live Site](https://fiexhaust.shop)**
 
+### 🌐 WordPress Business Site
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+Corporate website with custom theme, responsive design, and integrated contact forms. Optimized for speed and SEO with custom post types and advanced fields.
+
+### 🐍 Python Automation Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
 ### 📚 Programming Education Courses
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -122,16 +146,20 @@ Development of custom courses and practical assignments for students. Creating i
 
 ## 🏆 Achievements & Stats
 
-- 🛍️ **20+ Shopify stores** created and launched
-- 📦 **800+ products** cataloged and optimized
-- 👨‍🎓 **50+ students** taught programming fundamentals
+- 🛍️ **25+ E-commerce stores** created (Shopify + WordPress/WooCommerce)
+- 📦 **1000+ products** cataloged and optimized
+- 👨‍🎓 **60+ students** taught programming fundamentals
+- 🐍 **Python automation** tools saving 20+ hours/week for clients
 - 💰 **High conversion rates** achieved for e-commerce clients
 - 🎯 **SEO optimized** stores with improved search rankings
+- 🌐 **WordPress sites** with 99%+ uptime and fast loading speeds
 
 ## 🎯 Current Focus
 
 - [ ] Expanding Shopify Plus expertise
+- [ ] Advanced WordPress plugin development
 - [ ] Learning advanced e-commerce analytics
+- [ ] Python machine learning for e-commerce optimization
 - [ ] Developing custom Shopify apps
 - [ ] Growing programming education business
 - [ ] Contributing to open-source e-commerce tools
@@ -144,6 +172,20 @@ Development of custom courses and practical assignments for students. Creating i
 - Performance optimization
 - SEO implementation
 - Payment integration
+
+### 🌐 WordPress Development
+- Custom theme and plugin development
+- WooCommerce store setup
+- Site optimization and security
+- Content management systems
+- WordPress maintenance
+
+### 🐍 Python Development
+- Web scraping and automation
+- Data analysis and visualization
+- Django/Flask web applications
+- E-commerce automation tools
+- API integrations
 
 ### 👨‍🏫 Programming Education
 - HTML/CSS fundamentals
@@ -162,7 +204,7 @@ Development of custom courses and practical assignments for students. Creating i
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashatsompel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oleksandr-tsompel)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://sascyt9.github.io/Resume/resume-ua.html)
 [![Shopify](https://img.shields.io/badge/-Shopify_Partner-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://partners.shopify.com)
