@@ -81,8 +81,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sascyt9&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+## 📊 Contribution Calendar
+
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sascyt9&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sascyt9&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ## 🔥 GitHub Streak
@@ -101,14 +103,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sascyt9&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
-## 📊 Weekly Development Breakdown
+## 💻 Coding Activity
 
 <!--START_SECTION:waka-->
 ```text
-Liquid     15 hrs 23 mins  ████████████░░░░░  58.4%
-JavaScript 6 hrs 12 mins   ███████░░░░░░░░░░  23.5%
-CSS        3 hrs 45 mins   ████░░░░░░░░░░░░░  14.2%
-HTML       1 hr 5 mins     █░░░░░░░░░░░░░░░░   4.1%
+This week I spent my time on:
+
+Liquid     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨 58.4%
+JavaScript 🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨 23.5%
+CSS        🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 14.2%
+HTML       🟩🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨  4.1%
 ```
 <!--END_SECTION:waka-->
 
