@@ -67,21 +67,59 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sascyt9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sascyt9&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sascyt9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sascyt9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sascyt9&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sascyt9&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sascyt9&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sascyt9/sascyt9/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sascyt9/sascyt9/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sascyt9/sascyt9/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> 💡 *To enable snake animation, create a GitHub Action in your profile repository (sascyt9/sascyt9)*
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sascyt9&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sascyt9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 </div>
+
+---
+
+## 💻 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   █████████████░░░░░░░   45.2%
+JavaScript   ██████░░░░░░░░░░░░░░   22.8%
+Liquid       █████░░░░░░░░░░░░░░░   18.5%
+CSS/SCSS     ███░░░░░░░░░░░░░░░░░   10.2%
+Other        █░░░░░░░░░░░░░░░░░░░    3.3%
+```
+<!--END_SECTION:waka-->
+
+> 💡 *To enable real stats, connect [WakaTime](https://wakatime.com) to your profile*
 
 ---
 
@@ -255,7 +293,54 @@ Premium body kits store for luxury vehicles. Design system emphasizing visual ae
 
 ---
 
-## 📫 Let's Connect!
+## � Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
+  </a>
+</div>
+
+> 💡 *Replace YOUR_SPOTIFY_ID with your actual Spotify user ID to show what you're listening to!*
+
+---
+## 📬 Quick Contact Form
+
+<div align="center">
+  
+### 💬 Want to work together? Let's chat!
+
+<a href="https://t.me/Sascyt">
+  <img src="https://img.shields.io/badge/📩_Message_me_on_Telegram-@Sascyt-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" alt="Telegram"/>
+</a>
+
+<br/><br/>
+
+| 📋 Info | ✍️ Details |
+|:--------|:-----------|
+| **💼 Services** | Next.js Development, E-commerce, Shopify Stores |
+| **⏰ Response Time** | Usually within 2-4 hours |
+| **🌍 Timezone** | UTC+2 (Kyiv, Ukraine) |
+| **💬 Languages** | 🇺🇦 Ukrainian, 🇬🇧 English |
+
+<br/>
+
+<a href="https://t.me/Sascyt">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&center=true&width=500&lines=Click+here+to+message+me+%F0%9F%91%86;Let's+discuss+your+project!;Available+for+freelance+work" alt="Contact CTA"/>
+</a>
+
+</div>
+
+---
+## �📫 Let's Connect!
 
 <div align="center">
   
@@ -278,6 +363,24 @@ Premium body kits store for luxury vehicles. Design system emphasizing visual ae
 ⭐ **Star my repositories if you find them useful!** ⭐  
 💼 **Available for Next.js, React & E-commerce projects** 💼  
 🚀 **Let's turn your vision into reality!** 🚀
+
+---
+
+## 📊 Profile Summary Card
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sascyt9&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sascyt9&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sascyt9&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sascyt9&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sascyt9&theme=tokyonight&utcOffset=2" alt="Productive Time"/>
+</div>
 
 ---
 
