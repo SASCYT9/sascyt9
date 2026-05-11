@@ -12,19 +12,20 @@
 
 ## 🚀 About Me
 
-**Full Stack Developer & E-commerce Architect** with deep expertise in modern web technologies and e-commerce solutions. Architect of the high-end platform [OneCompany Global](https://onecompany.global) built with Next.js 16, Three.js, and React Server Components. Successfully launched and maintain a network of **5+ mono-brand automotive tuning stores**. Combining modern web development skills (React, TypeScript) with an engineering approach to create business-oriented solutions with **95+ Lighthouse performance scores**.
+**Senior Full Stack Engineer & E-commerce Architect** focused on premium, high-performance web platforms. Architect of [**OneCompany Global**](https://onecompany.global) — a B2B/B2C automotive tuning distribution platform built on **Next.js 16 + React 19 RSC + Prisma 6 + PostgreSQL** with custom admin panel, Telegram-bot order automation, and Lighthouse Performance **95+** across 1000+ product pages. Founder of [**Kreo Web Studio**](https://kreowebstudio.vercel.app) — premium web studio delivering cinematic Next.js sites for ambitious brands.
 
 <details>
 <summary>📋 Quick Info</summary>
 
-🔭 **Currently working on:** [OneCompany Global](https://onecompany.global) - B2B/B2C tuning distribution platform  
-🌱 **Learning:** Advanced React patterns, AI integration, Web3 technologies  
-💡 **Specialized in:** Next.js, React, TypeScript, Three.js, Shopify, E-commerce Architecture  
-🎓 **Education:** Master's degree in Automation & Computer-Integrated Technologies, KPI (2025)  
-📫 **Reach me:** sashatsompel@gmail.com  
-🌍 **Location:** Kyiv, Ukraine  
-⏰ **Timezone:** UTC+2 (EET)  
-🗣️ **Languages:** Ukrainian, English  
+🔭 **Currently working on:** [OneCompany Global](https://onecompany.global) (B2B/B2C tuning platform) + [Kreo Web Studio](https://kreowebstudio.vercel.app) (creative web projects)
+🌱 **Deep-diving:** React 19 RSC patterns, Three.js shaders, AI integrations with Vercel AI SDK
+💡 **Specialized in:** Next.js · React Server Components · TypeScript · Prisma · Three.js · Shopify · E-commerce Architecture
+🎓 **Education:** Master's degree in Automation & Computer-Integrated Technologies, KPI (2025)
+📜 **Thesis:** Autonomous Weeding Robot — Computer Vision with YOLOv8 on Raspberry Pi
+📫 **Reach me:** sashatsompel@gmail.com · [@Sascyt](https://t.me/Sascyt) · [LinkedIn](https://linkedin.com/in/sascyt)
+🌍 **Location:** Kyiv, Ukraine · UTC+2
+🗣️ **Languages:** Ukrainian (native), English (Upper-Intermediate)
+💼 **Available for:** premium freelance & contract web projects
 
 </details>
 
@@ -52,14 +53,35 @@
 ![Liquid](https://img.shields.io/badge/-Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Storefront API](https://img.shields.io/badge/-Storefront_API-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-### Backend & Tools
+### UI & Component Libraries
+![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![Lucide](https://img.shields.io/badge/-Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white)
+![Lenis](https://img.shields.io/badge/-Lenis_Smooth_Scroll-000000?style=for-the-badge)
+
+### State & Data
+![Zustand](https://img.shields.io/badge/-Zustand-FF7E29?style=for-the-badge)
+![Valtio](https://img.shields.io/badge/-Valtio-7C3AED?style=for-the-badge)
+![Immer](https://img.shields.io/badge/-Immer-00E7C3?style=for-the-badge)
+
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Prisma 6](https://img.shields.io/badge/-Prisma_6-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![NextAuth](https://img.shields.io/badge/-NextAuth-7C3AED?style=for-the-badge)
+![next-intl](https://img.shields.io/badge/-next--intl-000000?style=for-the-badge)
+
+### Bots, Email & Storage
+![Telegram Bot · Grammy](https://img.shields.io/badge/-Telegram_Bot_(Grammy)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![React Email](https://img.shields.io/badge/-React_Email-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Resend](https://img.shields.io/badge/-Resend-000000?style=for-the-badge)
+![Vercel Blob](https://img.shields.io/badge/-Vercel_Blob-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### DevOps & Hosting
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -107,44 +129,56 @@
 
 ---
 
-## 💻 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   █████████████░░░░░░░   45.2%
-JavaScript   ██████░░░░░░░░░░░░░░   22.8%
-Liquid       █████░░░░░░░░░░░░░░░   18.5%
-CSS/SCSS     ███░░░░░░░░░░░░░░░░░   10.2%
-Other        █░░░░░░░░░░░░░░░░░░░    3.3%
-```
-<!--END_SECTION:waka-->
-
-> 💡 *To enable real stats, connect [WakaTime](https://wakatime.com) to your profile*
-
----
-
 ## 💼 Professional Experience
 
 ### 🚀 Lead Developer & Architect
 **[OneCompany Global](https://onecompany.global)** | *2024 - Present*
 
-Development of an innovative B2B/B2C platform for automotive tuning distribution (200+ brands).
+B2B/B2C automotive tuning distribution platform — **200+ premium brands**, **1000+ products**, **Lighthouse Performance 95+**.
 
 <details>
 <summary>🔍 View Details</summary>
 
 **Key Achievements:**
-- ✅ Built architecture on **Next.js 16 + React Server Components**, achieving Performance **95+** scores
-- ✅ Implemented immersive **3D experience** using Three.js and cinematic scroll animations with GSAP
-- ✅ Developed custom CMS and order processing system with **Telegram Bot integration**
-- ✅ Configured **i18n multilingual support** and complex SEO structure for thousands of product pages
-- ✅ Created admin panel for content and order management
+- ✅ Architected the platform on **Next.js 16 + React 19 RSC + TypeScript 5.9**, hitting **Lighthouse 95+**
+- ✅ **Prisma 6 + PostgreSQL** schema covering catalog, orders, customers, and B2B pricing tiers
+- ✅ Implemented **NextAuth** authentication + **next-intl** for full UA/EN localization across thousands of product pages
+- ✅ Built custom **admin panel** for catalog, orders, and content management
+- ✅ **Telegram Bot (Grammy)** for real-time order automation and operations notifications
+- ✅ **Resend + React Email** for transactional email
+- ✅ Cinematic **Three.js + GSAP + Lenis** scroll experiences without sacrificing Core Web Vitals
+- ✅ **Vercel Blob** for media + Vercel Analytics for observability
+- ✅ CI/CD via GitHub Actions (lint, typecheck, Prisma validate, CodeQL)
 
-**Tech Stack:** Next.js 16, React, TypeScript, Three.js, GSAP, Tailwind CSS, Telegram API
+**Tech Stack:** Next.js 16 · React 19 RSC · TypeScript 5.9 · Prisma 6 · PostgreSQL · NextAuth · next-intl · Three.js · GSAP · Tailwind CSS 3.4 · Radix UI · Zustand · Valtio · Telegram Bot Grammy · Resend · React Email · Vercel · Vercel Blob
 
 </details>
 
-**[🔗 Live Site](https://onecompany.global)**
+**[🔗 Live Site](https://onecompany.global)** · **[📂 Repo](https://github.com/SASCYT9/OneCompany)**
+
+---
+
+### 🎨 Founder · Senior Web Engineer
+**[Kreo Web Studio](https://kreowebstudio.vercel.app)** | *2024 - Present*
+
+Premium web studio building cinematic Next.js sites, e-commerce platforms, and 3D experiences for ambitious brands.
+
+<details>
+<summary>🔍 View Details</summary>
+
+**What I deliver:**
+- ✅ High-performance corporate sites and landings on **Next.js + React 19**
+- ✅ Custom e-commerce stores (Next.js own builds or Shopify Liquid customization)
+- ✅ Cinematic **Three.js / WebGL / GSAP** experiences for premium brands
+- ✅ Full multilingual SEO architecture (sitemap, hreflang, JSON-LD, OG)
+- ✅ Telegram Bot integrations for forms, lead capture, and order automation
+- ✅ Vercel deployment with global edge caching and Core Web Vitals monitoring
+
+**Stack:** Next.js · React · TypeScript · Three.js · GSAP · Framer Motion · Tailwind · Shopify Liquid · Node.js · Telegram Bot
+
+</details>
+
+**[🔗 Portfolio](https://kreowebstudio.vercel.app/work)**
 
 ---
 
@@ -210,22 +244,47 @@ Creation and management of a mono-brand online store ecosystem for premium autom
 
 ### 🚀 OneCompany Global — Flagship Project
 ![Next.js](https://img.shields.io/badge/-Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React_19_RSC-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript_5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma 6](https://img.shields.io/badge/-Prisma_6-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-High-tech B2B/B2C platform for automotive tuning distribution (200+ brands). Features immersive 3D graphics, cinematic scroll animations, custom admin panel, and Telegram Bot integration for order automation.
+B2B/B2C platform for premium automotive tuning distribution — **200+ brands**, **1000+ products**, full admin panel, Telegram-bot order automation, **Lighthouse 95+**.
 
 **Highlights:**
-- 🎨 Immersive 3D experience with Three.js
-- ⚡ Lighthouse Performance: **95+**
-- 🌍 Multilingual support (i18n)
-- 🤖 Telegram Bot order automation
-- 📱 Fully responsive design
+- 🎨 Immersive Three.js + GSAP scroll experiences
+- ⚡ Next.js 16 + React 19 RSC architecture, **Lighthouse 95+**
+- 🗄️ Prisma 6 + PostgreSQL schema for catalog, orders, B2B pricing
+- 🌍 Bilingual UA/EN via next-intl
+- 🤖 Grammy Telegram bot — real-time order operations
+- ✉️ Resend + React Email for transactional flows
+- 🛡️ NextAuth authentication, CodeQL + Prisma validate in CI
 
-**[🔗 Live Site](https://onecompany.global)**
+**[🔗 Live Site](https://onecompany.global)** · **[📂 Repo](https://github.com/SASCYT9/OneCompany)**
+
+---
+
+### 🎨 Kreo Web Studio — Premium Web Studio
+![Next.js](https://img.shields.io/badge/-Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Lenis](https://img.shields.io/badge/-Lenis-000000?style=flat-square)
+
+Cinematic web studio site presenting the work: portfolio of premium auto/moto e-commerce, B2B platforms, and 3D experiences. Dark Swiss-Brutalism aesthetic with full UA/EN localization and Telegram integration for inbound leads.
+
+**Highlights:**
+- 🎬 Cinematic Three.js + GSAP scroll storytelling
+- 🚀 Lenis smooth-scroll + custom shaders for ambient hero
+- 🌍 Full UA/EN locale system with hreflang & multilingual SEO
+- 📩 Telegram bot integration for contact form
+- 📈 SEO ready (sitemap, JSON-LD, OG image, RSS)
+
+**[🔗 Live Site](https://kreowebstudio.vercel.app)** · **[📂 Repo](https://github.com/SASCYT9/MonoLithWebStudio)**
 
 ---
 
@@ -286,10 +345,10 @@ Premium body kits store for luxury vehicles. Design system emphasizing visual ae
 
 ## 🎯 Current Focus
 
-- 🔥 **OneCompany Global** - Expanding platform features
-- 📚 **Open Source** - Contributing to React/Next.js ecosystem
-- 🤖 **AI Integration** - Exploring AI-powered e-commerce solutions
-- 🌐 **Web3** - Learning blockchain technologies
+- 🔥 **OneCompany Global** — scaling platform features, new payment rails, dropship integrations
+- 🎨 **Kreo Web Studio** — taking on premium client projects (Next.js / e-commerce / 3D)
+- 🤖 **AI in commerce** — exploring Vercel AI SDK for product search, sales copilots, dynamic merchandising
+- 🧪 **React 19 RSC patterns** — pushing server-first architecture deeper
 
 ---
 
@@ -301,17 +360,6 @@ Premium body kits store for luxury vehicles. Design system emphasizing visual ae
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
-  </a>
-</div>
-
-> 💡 *Replace YOUR_SPOTIFY_ID with your actual Spotify user ID to show what you're listening to!*
-
----
 ## 📬 Quick Contact Form
 
 <div align="center">
@@ -346,7 +394,8 @@ Premium body kits store for luxury vehicles. Design system emphasizing visual ae
   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashatsompel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sascyt)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://onecompany.global)
+[![Kreo Web Studio](https://img.shields.io/badge/-Kreo_Web_Studio-B87333?style=for-the-badge&logo=vercel&logoColor=white)](https://kreowebstudio.vercel.app)
+[![OneCompany](https://img.shields.io/badge/-OneCompany_Global-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://onecompany.global)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sascyt)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SASCYT9)
 
@@ -385,5 +434,5 @@ Premium body kits store for luxury vehicles. Design system emphasizing visual ae
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Oleksandr Tsompel | Updated January 2026</sub>
+  <sub>Built with ❤️ by Oleksandr Tsompel · <a href="https://kreowebstudio.vercel.app">kreowebstudio.vercel.app</a> · Updated May 2026</sub>
 </div>
